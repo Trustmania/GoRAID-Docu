@@ -9,9 +9,12 @@ Willkommen zur GoRAID Benutzerdokumentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
+
+   /post-raid.md
 
 
-.. image:: _static/image/picture.png
+.. image:: /_static/image/picture.png
 
 
 Indices and tables
