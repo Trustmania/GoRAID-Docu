@@ -3,13 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GoRAID's documentation!
+Willkommen zur GoRAID Benutzerdokumentation!
 ==================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+
+.. image:: _static/image/picture.png
 
 
 Indices and tables
