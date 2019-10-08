@@ -14,7 +14,7 @@ Willkommen zur GoRAID Benutzerdokumentation!
    /post-raid.md
 
 
-.. image:: /_static/image/picture.png
+.. image:: /_static/image/map.png
 
 
 Indices and tables
