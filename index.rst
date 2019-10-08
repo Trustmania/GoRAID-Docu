@@ -13,7 +13,8 @@ Willkommen zur GoRAID Benutzerdokumentation!
    :caption: Inhalt:
    :glob:
 
-   /post-raid.md
+   /post-raid.rst
+   /faq.md
 
 
 Indizes und Tabellen
