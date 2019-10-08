@@ -5,7 +5,7 @@
 Wir haben eine Telegram Gruppe die euch gerne bei allen Anliegen rund um GoRAID unterstützen. Alles was keine Verbindung zu GoRAID hat wird ohne zu Fragen gelöscht.
 Bitte denkt daran, dass in der Gruppe x hunderte andere Spieler sind.
 
-Link: [[GoRAID] SUPPORT / NEWS](goo.gl/G1RnRP)
+Link: [[GoRAID] SUPPORT / NEWS](http://goo.gl/G1RnRP)
 
 ### Welche Bereiche / Bezirke / Gruppen gibt es?
 
