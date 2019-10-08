@@ -6,18 +6,17 @@
 Willkommen zur GoRAID Benutzerdokumentation!
 ==================================
 
+.. image:: /_static/image/map.png
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Inhalt:
    :glob:
 
    /post-raid.md
 
 
-.. image:: /_static/image/map.png
-
-
-Indices and tables
+Indizes und Tabellen
 ==================
 
 * :ref:`genindex`
