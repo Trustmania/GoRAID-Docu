@@ -65,7 +65,7 @@ html_theme_options = {
     'logo_only': True,
     }
 
-html_logo = "_static/image/logo.jpg"
+html_logo = "_static/image/GoRAIDLogo.png"
 html_show_sourcelink = True
 
 # Add any paths that contain custom static files (such as style sheets) here,
