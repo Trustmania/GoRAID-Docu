@@ -16,23 +16,23 @@ Beim posten von einem Ei ist zu beachten, dass das System darauf ausgelegt ist, 
 
 Folgende zwei Möglichkeiten gibt es ein Ei zu posten:
 
-+--------------+---------------------------------------------------------------------+
-|              | Laufzeit                 | Uhrzeit                 |
-+==============+==========================+=================================================+
-| Beispiele    | ... PoGo Screenshot ...  | ... PoGo Screenshot ... |
-+--------------+---+---------------------------------------------------------------------+
-| Beschreibung | Die Laufzeit kann man von weitem auf einer Arene sehen. Ebenso kann man die Laufzeit direkt auf einer Arenea sehen. | Die Uhrzeit kann man nur in der Vorschau von allen RAIDs in der Umgebung sehen. Es empfiehlt sich nur die Uhrzeit zu wählen, wenn man diese auch sieht |
-+--------------+---------------------------------------------------------------------+
-| Ergebnis .   |  ... Telegram Screenshot ...  | ... Telegram Screenshot ... |
-+--------------+---------------------------------------------------------------------+
+.. csv-table::
+   :header: "", "Laufzeit", "Uhrzeit"
+   :widths: 20, 20, 20
+
+   "Beispiele", "... PoGo Screenshot ...", "... PoGo Screenshot ..."
+   "Beschreibung", "Die Laufzeit kann man von weitem auf einer Arene sehen. Ebenso kann man die Laufzeit direkt auf einer Arenea sehen.", "Die Uhrzeit kann man nur in der Vorschau von allen RAIDs in der Umgebung sehen. Es empfiehlt sich nur die Uhrzeit zu wählen, wenn man diese auch sieht"
+   "Ergebnis", "... Telegram Screenshot ...", "... Telegram Screenshot ..."
 
 Ein RAID-Boss posten
 ####################
 
 **RAID-Bosse haben eine Laufzeit von 45 Minuten**
 
-|| Laufzeit |
-|-|----------|
-|Beispiele | ... PoGo Screenshot ...  |
-|Beschreibung | Die Laufzeit kann man von weitem auf einer Arene sehen. Ebenso kann man die Laufzeit direkt auf einer Arenea sehen. |
-| Ergebnis|  ... Telegram Screenshot ...  |
+.. csv-table::
+   :header: "", "Laufzeit"
+   :widths: 20, 20
+
+   "Beispiele", "... PoGo Screenshot ..."
+   "Beschreibung", "Die Laufzeit kann man von weitem auf einer Arene sehen. Ebenso kann man die Laufzeit direkt auf einer Arenea sehen."
+   "Ergebnis", "... Telegram Screenshot ..."
