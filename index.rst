@@ -15,6 +15,7 @@ Willkommen zur GoRAID Benutzerdokumentation!
 
    /post-raid.rst
    /faq.md
+   /add_gym.rst
 
 
 Indizes und Tabellen
